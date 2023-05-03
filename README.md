@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarathkumar1004
 - 👀 I’m interested in  Full Stack Web Development
-- 🌱 I’m currently learning Full Stack Web Development Course
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a  Full Stack Web Developer 
+- 💞️ I’m looking to collaborate on  Web Developer .
 - 📫 How to reach me ...
 
 <!---
